@@ -6,6 +6,12 @@
 
 Hello! I'm Faissel Noual, a 25-year-old accountant transitioning into the exciting world of full-stack development. Currently, I am a student in the ALX software engineering program, working hard to master my skills and build amazing projects.
 
+
+
+## Contact Me
+
+- **![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white):** Noualfaissel@gmail.com         - **![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white :** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/faissel-noual-8b81ab20b/)             ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+- 
 ## About Me 😇
 
 - **Name:** Faissel Noual
@@ -38,12 +44,3 @@ Here are some of the projects I have worked on:
    - Technologies used: List of technologies.
    - [Repository Link](URL)
 
-## Contact Me
-
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-profile)
-
----
-
-Feel free to update any section with your actual details and projects. Make sure to replace `path/to/your/photo.jpg` with the actual path to your picture and add your contact information and project links.
