@@ -1,6 +1,3 @@
-Certainly! Here is a README template for your GitHub repository:
-
----
 
 ![Faissel Noual](path/to/your/photo.jpg)
 
