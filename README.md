@@ -1,11 +1,12 @@
 
-![Faissel Noual](path/to/your/photo.jpg)
+
+![alt text](<WhatsApp Image 2024-07-06 at 14.03.36_31064c00.jpg>) 
 
 # Faissel Noual
 
 Hello! I'm Faissel Noual, a 25-year-old accountant transitioning into the exciting world of full-stack development. Currently, I am a student in the ALX software engineering program, working hard to master my skills and build amazing projects.
 
-## About Me
+## About Me 😇
 
 - **Name:** Faissel Noual
 - **Age:** 25
