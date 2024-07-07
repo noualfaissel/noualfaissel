@@ -26,7 +26,8 @@
 <a href="https://www.reddit.com/user/Rough-Landscape-5213/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
 </a>
-
+<a href="https://www.tiktok.com/@faisselnoual" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
 ## Faissel Noual
 Hello! I'm Faissel Noual, a 25-year-old accountant transitioning into the exciting world of full-stack development. Currently, I'm enrolled in the ALX software engineering program, where I'm dedicated to mastering my skills and crafting remarkable projects.
 
