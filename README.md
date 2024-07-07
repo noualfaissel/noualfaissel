@@ -7,7 +7,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
   </a>
   <a href="https://wa.me/+212777840918" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/whatsapp.svg" width="32" height="32" alt="WhatsApp" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="32" height="32" alt="WhatsApp" />
   </a>
   <a href="https://www.facebook.com/faisselnoual" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
@@ -16,9 +16,10 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" />
   </a>
   <a href="mailto:Noualfaissel@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" alt="Gmail" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" height="32" alt="Gmail" />
   </a>
 </p>
+
 
 
 # Faissel Noual
