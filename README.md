@@ -1,10 +1,6 @@
 ## Contact Me
 
-<a href="WhatsApp.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/WhatsApp.svg" width="32" height="32" /></a>
-<a href="Gmail.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/Gmail.svg" width="32" height="32" /></a>
-<a href="Youtube.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/Youtube.svg" width="32" height="32" /></a>
-<a href="LinkedIn.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/LinkedIn.svg" width="32" height="32" /></a>
-<a href="Medium.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/Medium.svg" width="32" height="32" /></a>
+<p align="left">  <a href="https://www.linkedin.com/in/mehdi-labtira-31558a166/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MLabtira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> </p>
 
 
 # Faissel Noual
