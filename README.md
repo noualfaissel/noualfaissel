@@ -24,7 +24,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="100" height="100" alt="Gmail" />
 </a>
 
-##Faissel Noual
+## Faissel Noual
 
 Hello! I'm Faissel Noual,
 a 25-year-old accountant transitioning into the exciting world of full-stack development. Currently,
