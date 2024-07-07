@@ -22,11 +22,6 @@
   </a>
 </p>
 
-
-
-
-
-
 # Faissel Noual
 
 Hello! I'm Faissel Noual,
