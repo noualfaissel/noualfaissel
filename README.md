@@ -24,11 +24,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="100" height="100" alt="Gmail" />
 </a>
 
-
-<a href="mailto:Noualfaissel@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="50" alt="Gmail" />
-</a>
-
 # Faissel Noual
 
 Hello! I'm Faissel Noual,
