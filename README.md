@@ -1,5 +1,4 @@
 ## Contact Me
-## Contact Me
 
 <a href="https://www.linkedin.com/in/faissel-noual-8b81ab20b/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" alt="LinkedIn" style="margin-right: 20px;" />
