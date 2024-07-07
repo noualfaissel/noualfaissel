@@ -5,7 +5,7 @@
 <a href="https://www.youtube.com/channel/faisselnoual(https://www.youtube.com/@Faissel-Tech)" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
-<a href="https://wa.me/+212777840918" target="_blank" rel="noreferrer">
+<a href="https://wa.me/+212777480918" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=61561840901559" target="_blank" rel="noreferrer">
