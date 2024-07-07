@@ -17,6 +17,15 @@
 <a href="mailto:Noualfaissel@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" width="130" />
 </a>
+<a href="https://twitter.com/faisselnoual" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="X" width="130" />
+</a>
+<a href="https://t.me/faisselnoual" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" width="130" />
+</a>
+<a href="https://www.reddit.com/user/faisselnoual" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" width="130" />
+</a>
 
 ## Faissel Noual
 Hello! I'm Faissel Noual, a 25-year-old accountant transitioning into the exciting world of full-stack development. Currently, I'm enrolled in the ALX software engineering program, where I'm dedicated to mastering my skills and crafting remarkable projects.
