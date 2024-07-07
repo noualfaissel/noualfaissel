@@ -17,7 +17,12 @@
 </a>
 
 <a href="https://medium.com/@noualfaissel" target="_blank" rel="noreferrer">
-  <img src="ht
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="100" height="100" alt="Medium" style="margin-right: 60px;" />
+</a>
+
+<a href="mailto:Noualfaissel@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="100" height="100" alt="Gmail" />
+</a>
 
 ##Faissel Noual
 
