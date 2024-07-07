@@ -1,21 +1,27 @@
 ## Contact Me
 <p align="left">
-  <a href="https:/https://www.linkedin.com/in/faissel-noual-8b81ab20b//" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px; border: 2px solid #0077B5; border-radius: 10px; padding: 5px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="display: block;" />
+  <style>
+    .social-link {
+      display: inline-block;
+      margin: 5px;
+      border-radius: 10px;
+      padding: 5px;
+    }
+    .social-link img {
+      display: block;
+    }
+  </style>
+  <a href="https://www.linkedin.com/in/faissel-noual-8b81ab20b/" target="_blank" rel="noreferrer" class="social-link" style="border: 2px solid #0077B5;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/channel/your-youtube-channel-id" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px; border: 2px solid #FF0000; border-radius: 10px; padding: 5px;">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" style="display: block;" />
+  <a href="https://www.youtube.com/channel/your-youtube-channel-id" target="_blank" rel="noreferrer" class="social-link" style="border: 2px solid #FF0000;">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://wa.me/+212777480918" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px; border: 2px solid #25D366; border-radius: 10px; padding: 5px;">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" style="display: block;" />
-  </a>
-  <a href="https://www.facebook.com/your-facebook-profile" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px; border: 2px solid #1877F2; border-radius: 10px; padding: 5px;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" style="display: block;" />
-  </a>
-  <a href="https://medium.com/@noualfaissel" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px; border: 2px solid #12100E; border-radius: 10px; padding: 5px;">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" style="display: block;" />
+  <a href="mailto:Noualfaissel@gmail.com" target="_blank" rel="noreferrer" class="social-link" style="border: 2px solid #D14836;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
 
 
 
