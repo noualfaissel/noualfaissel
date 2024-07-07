@@ -1,14 +1,21 @@
 ## Contact Me
-
-
- <a href="https://github.com/noualfaissel" target="_blank" rel="noreferrer"><img src="[YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)"></a>
-
-
-
-
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.youtube.com/channel/your-youtube-channel-id" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+  </a>
+  <a href="https://wa.me/your-whatsapp-number" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/whatsapp.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.facebook.com/your-facebook-profile" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+  </a>
+  <a href="https://medium.com/@your-medium-username" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
+  </a>
 </p>
-
 
 # Faissel Noual
 
