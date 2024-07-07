@@ -1,6 +1,18 @@
 ## Contact Me
 
-<p align="left">  <a href="https://www.linkedin.com/in/faissel-noual-8b81ab20b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="+212777480918" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/WhatsApp.svg" width="32" height="32" /></a> </p>
+<p align="left">  <a href="https://www.linkedin.com/in/faissel-noual-8b81ab20b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="+212777480918" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/Medium.svg" width="32" height="32" /></a> 
+   <a href="+212777480918" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/Youtube.svg" width="32" height="32" /></a> 
+ <a href="+212777480918" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/Gmail.svg" width="32" height="32" /></a> 
+ <a href="+212777480918" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/Facebook.svg" width="32" height="32" /></a> 
+ <a href="+212777480918" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+
+
+
+
+
+
+</p>
 
 
 # Faissel Noual
