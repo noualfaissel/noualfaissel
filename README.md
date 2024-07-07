@@ -23,6 +23,7 @@
 <a href="mailto:Noualfaissel@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" width="55" height="20" />
 </a>
+
 ## Faissel Noual
 
 Hello! I'm Faissel Noual, a 25-year-old accountant transitioning into the exciting world of full-stack development. Currently, I'm enrolled in the ALX software engineering program, where I'm dedicated to mastering my skills and crafting remarkable projects.
