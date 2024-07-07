@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" width="130" />
 </a>
 <a href="https://twitter.com/faisselnoual" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/X-1DA1F2?style=social&logo=twitter&logoColor=white" alt="X" width="30" />
+  <img src="https://img.shields.io/badge/X-1DA1F2?style=social&logo=twitter&logoColor=white" alt="X" width="100" />
 </a>
 
 <a href="https://t.me/faisselnoual" target="_blank" rel="noreferrer">
